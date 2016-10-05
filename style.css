@@ -1,13 +1,33 @@
 .ui.borderless.topmenu.menu {
-  background-color: darkblue;
+  background-color: mediumblue;
   box-shadow: none;
   border: none;
 }
 
-.grad-background {
-  background-color: darkblue;
-  color: white;
-  height: 400px;
+.ui.borderless.middlemenu.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+
+.blue-background {
+   background-color: darkblue;
+   color: white;
+   height: 400px;
+   padding-top: 1em;
+   padding-bottom: 1em;
+ }
+
+.near-bottom-box-background {
+  background-color: rgb(247, 247, 247);
+  height: 100px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.bottom-box-background {
+  background-color: white;
+  height: 100px;
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -16,4 +36,8 @@
 .text {
   font-size: 18px;
   color: #ffffff;
+}
+
+.orange {
+  background-color: darkorange;
 }
