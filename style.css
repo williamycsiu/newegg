@@ -20,7 +20,7 @@
 
 .near-bottom-box-background {
   background-color: rgb(247, 247, 247);
-  height: 100px;
+  height: 120px;
   padding-top: 1em;
   padding-bottom: 1em;
 }
@@ -40,4 +40,18 @@
 
 .orange {
   background-color: darkorange;
+}
+
+.padding {
+  float: right;
+  margin-right: -190px;
+}
+
+.img-padding {
+  padding: 2em;
+}
+
+.center {
+  margin-left: 650px;
+  margin-right: 650px;
 }
