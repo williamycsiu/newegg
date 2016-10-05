@@ -1,0 +1,19 @@
+.ui.borderless.topmenu.menu {
+  background-color: darkblue;
+  box-shadow: none;
+  border: none;
+}
+
+.grad-background {
+  background-color: darkblue;
+  color: white;
+  height: 400px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+
+.text {
+  font-size: 18px;
+  color: #ffffff;
+}
